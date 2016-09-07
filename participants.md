@@ -13,3 +13,4 @@ Michael Lay
 Michael LeCaptain
 Steven Bertolucci
 Eric Widmann
+Brett Kriz
